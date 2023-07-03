@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ugifep3BAJCoVFfm1PUUkVcvdQI7OiWHhYKxxPOhbGBKh3UvaX1mXeq4KP82Vg/AulTfA1P5kBhQShlWFgP6zQ==",
+  "success": true,
+  "projectFilePath": "D:\\SeminarskIgra\\SeminarskIgra\\SeminarskaRabota\\SeminarskaRabota\\SeminarskaRabota.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trajk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\trajk\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\trajk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\trajk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

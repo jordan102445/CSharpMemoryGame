@@ -1,0 +1,57 @@
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.exe
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.deps.json
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.runtimeconfig.json
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.runtimeconfig.dev.json
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.dll
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\ref\SeminarskaRabota.dll
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.pdb
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.csprojAssemblyReference.cache
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.Form1.resources
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.Properties.Resources.resources
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.csproj.GenerateResource.cache
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.AssemblyInfoInputs.cache
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.AssemblyInfo.cs
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.csproj.CoreCompileInputs.cache
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.dll
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\ref\SeminarskaRabota.dll
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.pdb
+C:\Users\trajk\source\repos\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.genruntimeconfig.cache
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.exe
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.deps.json
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.runtimeconfig.json
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.runtimeconfig.dev.json
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.dll
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\ref\SeminarskaRabota.dll
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.pdb
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.csproj.AssemblyReference.cache
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.Form1.resources
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.Properties.Resources.resources
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.csproj.GenerateResource.cache
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.AssemblyInfoInputs.cache
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.AssemblyInfo.cs
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.csproj.CoreCompileInputs.cache
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.dll
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\ref\SeminarskaRabota.dll
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.pdb
+D:\Proekti za Grafcika Vizualizacija\OneDrive - Goce Delcev University in Stip\Desktop\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.genruntimeconfig.cache
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.exe
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.deps.json
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.runtimeconfig.json
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.runtimeconfig.dev.json
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.dll
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\ref\SeminarskaRabota.dll
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\bin\Debug\net5.0-windows\SeminarskaRabota.pdb
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.csproj.AssemblyReference.cache
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.Form1.resources
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.Properties.Resources.resources
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.csproj.GenerateResource.cache
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.AssemblyInfoInputs.cache
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.AssemblyInfo.cs
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.csproj.CoreCompileInputs.cache
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.dll
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\ref\SeminarskaRabota.dll
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.pdb
+C:\Users\trajk\Desktop\Joce Faks 3ta godina\SeminarskIgra\SeminarskaRabota\SeminarskaRabota\obj\Debug\net5.0-windows\SeminarskaRabota.genruntimeconfig.cache
